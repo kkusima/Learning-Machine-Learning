@@ -7,4 +7,4 @@ The programming software used was Octave 4.4.1.
 
 # For more in depth descriptions, check out the wiki page:
 
-https://github.com/kkusima/Learning-Machine-Learning/wiki
+### https://github.com/kkusima/Learning-Machine-Learning/wiki
