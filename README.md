@@ -5,6 +5,6 @@ The programming software used was Octave 4.4.1.
 
 ### No code/assignment solutions will be posted in this repository in corresponding with the Honor Code
 
-## For more in depth description of the learning journey feel free to check out the wiki page, also linked below:
+## For more in depth description of the learning journey, check out the wiki page:
 
 https://github.com/kkusima/Learning-Machine-Learning/wiki
